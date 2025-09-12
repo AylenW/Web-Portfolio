@@ -1,0 +1,34 @@
+body{
+    background-color: #fbf4eb;
+    padding: 20px;
+}
+
+h1{
+    color: #c43670; 
+    background-color: #fbd9e5;
+}
+
+h2{
+    color: #c43670; 
+    background-color: #fbd9e5;
+}
+
+
+header{
+    color: #c43670;
+}
+
+main{
+    background-color: #fbd9e5;
+    color: #3d3d3d;
+}
+
+nav{
+    color: #c43670;
+    background-color: #fcd9a9;
+    text-decoration: none;
+}
+nav ul{ 
+    color: #c43670;
+    text-decoration: none;
+}
